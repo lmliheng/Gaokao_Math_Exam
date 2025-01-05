@@ -1,0 +1,10 @@
+\contentsline {chapter}{2021 年普通高等学校招生全国统一考试}{1}{chapter*.2}%
+\contentsline {section}{\numberline {一}选择题：本题共 8 小题，每小题 5 分，共 40 分． 在每小题给出的四个选项中，只有一项是符合题目要求的． }{1}{section.2.1}%
+\contentsline {section}{\numberline {二}选择题：本题共 4 小题，每小题 5 分，共 20 分． 在每小题给出的选项中，有多项符合题目要求的． 全部选对的得 5 分，部分选择的得 2 分，有选错的得 0 分． }{1}{section.2.2}%
+\contentsline {section}{\numberline {三}填空题：本题共 4 小题，每小题 5 分，共 20 分．}{1}{section.2.3}%
+\contentsline {section}{\numberline {四}解答题：本题共 6 小题，共 70 分．解答应写出文字说明、证明过程或者演算步骤．}{1}{section.2.4}%
+\contentsline {chapter}{2023 年普通高等学校招生全国统一考试}{5}{chapter*.3}%
+\contentsline {section}{\numberline {一}选择题：本题共 8 小题，每小题 5 分，共 40 分． 在每小题给出的四个选项中，只有一项是符合题目要求的． }{5}{section.3.1}%
+\contentsline {section}{\numberline {二}选择题：本题共 4 小题，每小题 5 分，共 20 分． 在每小题给出的选项中，有多项符合题目要求的． 全部选对的得 5 分，部分选择的得 2 分，有选错的得 0 分． }{5}{section.3.2}%
+\contentsline {section}{\numberline {三}填空题：本题共 4 小题，每小题 5 分，共 20 分．}{5}{section.3.3}%
+\contentsline {section}{\numberline {四}解答题：本题共 6 小题，共 70 分．解答应写出文字说明、证明过程或者演算步骤．}{5}{section.3.4}%
