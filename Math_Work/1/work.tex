@@ -1,0 +1,59 @@
+% XeLaTeX example-single.tex
+
+\documentclass{exam-zh}
+
+\usepackage{siunitx}
+
+\examsetup{
+  page/size=a4paper,
+  paren/show-paren=true,
+  paren/show-answer=true,
+  fillin/show-answer=false,
+  solution/show-solution=show-stay,
+  solution/label-indentation=false
+}
+
+\everymath{\displaystyle}
+
+\title{题目}
+
+\begin{document}
+
+% 题目.
+\begin{problem}
+  已知双曲线$C:x^2-y^2=\lambda(\lambda>0)$，焦点F到其中一条渐近线的距离为$\sqrt{3}$，
+  \begin{enumerate}
+    \item 求 $ \lambda $ 
+    \begin{solution}
+      （略）$\lambda = 3$ 
+    \end{solution}
+
+    \item 动点$M$，$N$在曲线C上，已知点A(2,-1)，直线AM，AN分别与y轴相交的两点关于原点对称，点Q在直线MN上，$AQ\perp MN$，证明:存在定点T，使得$|QT|$为定值,
+    \begin{solution}
+\\      由（1）知，双曲线方程为$x^2-y^2=3$，容易观察到，点A(2,-1)在双曲线上，
+\\     若$MN$的斜率存在，则$MN$的斜率为$k$，令M的坐标为$(x_1,y_1)$，N的坐标为$(x_2,y_2)$，
+\\     令MN方程为$y=kx+m$，联立$x^2-y^2=3$，消去$y$，得$x^2-(kx+m)^2=3$，
+\\     整理得$(1-k^2)x^2-2kmx-m^2-3=0$，
+\\     由韦达定理，$x_1+x_2=\frac{2km}{1-k^2}$，$x_1x_2=\frac{-m^2-3}{1-k^2}$，
+\\     由题意，直线AM，AN分别与y轴相交的两点关于原点对称，
+\\     令AM在y轴上的交点为$M_1$，AN在y轴上的交点为$N_1$，
+\\      则AM方程为$y+1=\frac{y_1+1}{x_1-2}(x-2)$，
+\\      令$x=0$，得$M_1$的坐标为$(0,\frac{(-2)(y_1+1)}{x_1-2}-1)$整理为$(0,\frac{2y_1+x_1}{2-x_1})$，
+\\      同理，$N_1$的坐标为$(0,\frac{2y_2+x_2}{2-x_2})$，
+\\      由题意，$M_1$，$N_1$关于原点对称，
+\\      所以$\frac{2y_1+x_1}{2-x_1}+\frac{2y_2+x_2}{2-x_2}=0$，
+\\      那么$\frac{2(kx_1+m)+x_1}{2-x_1}+\frac{2(kx_2+m)+x_2}{2-x_2}=0$，
+\\     整理得$\frac{(2k+1)x_1+2m}{2-x_1}+\frac{(2k+1)x_2+2m}{2-x_2}=0$
+\\      整理得$(2k+1)(x_1x_2)-(2k-m+1)(x_1+x_2)-4m=0$
+\\       代入$x_1+x_2$，$x_1x_2$，得$\frac{(2k+1)(-m^2-3)-(2k-m+1)\frac{2km}{1-k^2}-4m}{k^2-1}=0$，
+\\     整理得$m^2+4km+6k+4m+3=0$，因式分解得$(m+2k+1)(m+3)=0$，
+\\      解得$m=-2k-1$或$m=-3$，显然当$M=-2k-1$时，MN方程为$y=k(x-2)-1$恒过点A(2,-1)，不符合题意，
+\\      所以$m=-3$，此时MN方程为$y=kx-3$，恒过点$(0,-3)$，
+\\      由圆的性质，点Q在以AB为直径的圆上，圆心为AB的中点，半径为AB的一半，那么圆心为$(1,-2)$，半径为$\sqrt{2}$，
+\\      所以点Q的轨迹方程为$(x-1)^2+(y+2)^2=2$，且T的坐标为$(1,-2)$，$|QT|=\sqrt{2}$
+\\      所以存在定点$T$，使得$|QT|$为定值
+
+    \end{solution}
+  \end{enumerate}
+\end{problem}
+\end{document}

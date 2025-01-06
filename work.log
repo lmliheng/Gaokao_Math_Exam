@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.26)  6 JAN 2025 21:40
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.26)  6 JAN 2025 21:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1421,11 +1421,11 @@ t;"
 t;+smcp;"
 
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/NewCM10(1)/m/n on input line 24.
+(Font)                  OT1/cmr/m/n --> TU/NewCM10(1)/m/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/NewCM10(1)/m/it on input line 24.
+(Font)                  OT1/cmr/m/it --> TU/NewCM10(1)/m/it on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/NewCM10(1)/b/n on input line 24.
+(Font)                  OT1/cmr/bx/n --> TU/NewCM10(1)/b/n on input line 20.
 
 (c:/texlive/2024/texmf-dist/tex/latex/newcomputermodern/NewCMSans10-Book.fontsp
 ec)
@@ -1494,11 +1494,11 @@ e=dflt;"
 e=dflt;+smcp;"
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/NewCMSans10(1)/m/n on input line 24
+(Font)                  OT1/cmss/m/n --> TU/NewCMSans10(1)/m/n on input line 20
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/NewCMSans10(1)/b/n on input line 2
-4.
+0.
 
 (c:/texlive/2024/texmf-dist/tex/latex/newcomputermodern/NewCMMono10-Book.fontsp
 ec)
@@ -1584,10 +1584,10 @@ e=dflt;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/NewCMMono10(1)/m/n on input line 24
+(Font)                  OT1/cmtt/m/n --> TU/NewCMMono10(1)/m/n on input line 20
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/NewCMMono10(1)/b/n on input line 24
+(Font)                  OT1/cmtt/m/n --> TU/NewCMMono10(1)/b/n on input line 20
 .
 
 Package fontspec Info: Font family 'NewCMMath-Book(0)' created for font
@@ -1622,15 +1622,15 @@ flt;+ss02;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 24.
+(Font)              `operators' in the math version `normal' on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/NewCMMath-Book(1)/m/n on input line 
-24.
+20.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 24.
+(Font)              `operators' in the math version `bold' on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/NewCMMath-Book(1)/b/n on input line
- 24.
+ 20.
 
 Package fontspec Info: NewCMMath-Book scale = 1.0001.
 
@@ -1684,15 +1684,15 @@ otf]/OT:script=math;language=dflt;+ss02;+ssty=1;"
 (fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 24.
+(Font)              `symbols' in the math version `normal' on input line 20.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/NewCMMath-Book(2)/m/n on input line
- 24.
+ 20.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 24.
+(Font)              `symbols' in the math version `bold' on input line 20.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/NewCMMath-Book(2)/b/n on input line
- 24.
+ 20.
 
 Package fontspec Info: NewCMMath-Book scale = 0.9999.
 
@@ -1735,16 +1735,16 @@ otf]/OT:script=math;language=dflt;+ss02;+ssty=1;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 2
-4.
+0.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/NewCMMath-Book(3)/m/n on input line
- 24.
+ 20.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 24.
+(Font)              `largesymbols' in the math version `bold' on input line 20.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/NewCMMath-Book(3)/b/n on input line
- 24.
+ 20.
 
 Package fontspec Info: Font family 'NewCMMath-Book(4)' created for font
 (fontspec)             'NewCMMath-Book' with options
@@ -1766,10 +1766,10 @@ flt;+ss01;+ssty=1;"
 \sym__um_fam1=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `__um_fam1' in version `normal'
 (Font)                  TU/NewCMMath-Book(4)/m/n --> TU/NewCMMath-Book(4)/m/n o
-n input line 24.
+n input line 20.
 LaTeX Font Info:    Overwriting symbol font `__um_fam1' in version `bold'
 (Font)                  TU/NewCMMath-Book(4)/m/n --> TU/NewCMMath-Book(4)/b/n o
-n input line 24.
+n input line 20.
 
 Package fontspec Info: Font family 'STIXTwoMath-Regular(0)' created for font
 (fontspec)             'STIXTwoMath-Regular' with options
@@ -1791,31 +1791,31 @@ e=dflt;+ssty=1;"
 \sym__um_fam2=\mathgroup5
 LaTeX Font Info:    Overwriting symbol font `__um_fam2' in version `normal'
 (Font)                  TU/STIXTwoMath-Regular(0)/m/n --> TU/STIXTwoMath-Regula
-r(0)/m/n on input line 24.
+r(0)/m/n on input line 20.
 LaTeX Font Info:    Overwriting symbol font `__um_fam2' in version `bold'
 (Font)                  TU/STIXTwoMath-Regular(0)/m/n --> TU/STIXTwoMath-Regula
-r(0)/b/n on input line 24.
+r(0)/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
 (Font)                  TU/NewCM10(1)/m/n --> TU/NewCM10(1)/m/n on input line 2
-4.
+0.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  TU/NewCM10(1)/m/it --> TU/NewCM10(1)/m/it on input line
- 24.
+ 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  TU/NewCM10(1)/b/n --> TU/NewCM10(1)/b/n on input line 2
-4.
+0.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  TU/NewCMSans10(1)/m/n --> TU/NewCMSans10(1)/m/n on inpu
-t line 24.
+t line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  TU/NewCMSans10(1)/b/n --> TU/NewCMSans10(1)/b/n on inpu
-t line 24.
+t line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  TU/NewCMMono10(1)/m/n --> TU/NewCMMono10(1)/m/n on inpu
-t line 24.
+t line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  TU/NewCMMono10(1)/b/n --> TU/NewCMMono10(1)/b/n on inpu
-t line 24.
+t line 20.
  (c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
 
@@ -1928,38 +1928,38 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip123
 )
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 24.
-Package hyperref Info: Option `psdextra' set `true' on input line 24.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 20.
+Package hyperref Info: Option `psdextra' set `true' on input line 20.
 
 (c:/texlive/2024/texmf-dist/tex/latex/hyperref/psdextra.def
 File: psdextra.def 2024-01-20 v7.01h Hyperref: Additions to PDF string support
 )
-Package hyperref Info: Option `unicode' set `true' on input line 24.
+Package hyperref Info: Option `unicode' set `true' on input line 20.
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 24.
+h' as default language. on input line 20.
  (./work.aux)
 \openout1 = `work.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -2005,40 +2005,30 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 24.
-Package hyperref Info: Link coloring OFF on input line 24.
+or `english'. on input line 20.
+Package hyperref Info: Link coloring OFF on input line 20.
  (./work.out) (./work.out)
 \@outlinefile=\write4
 \openout4 = `work.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 \l__list_leftmargin_i_dim=\dimen498
 LaTeX Font Info:    Font shape `TU/NewCMMath-Book(2)/m/n' will be
-(Font)              scaled to size 10.54048pt on input line 71.
+(Font)              scaled to size 10.54048pt on input line 58.
 LaTeX Font Info:    Font shape `TU/NewCMMath-Book(2)/m/n' will be
-(Font)              scaled to size 7.37834pt on input line 71.
+(Font)              scaled to size 7.37834pt on input line 58.
 LaTeX Font Info:    Font shape `TU/NewCMMath-Book(2)/m/n' will be
-(Font)              scaled to size 5.27023pt on input line 71.
+(Font)              scaled to size 5.27023pt on input line 58.
 LaTeX Font Info:    Font shape `TU/NewCMMath-Book(3)/m/n' will be
-(Font)              scaled to size 10.53824pt on input line 71.
+(Font)              scaled to size 10.53824pt on input line 58.
 LaTeX Font Info:    Font shape `TU/NewCMMath-Book(3)/m/n' will be
-(Font)              scaled to size 7.37677pt on input line 71.
+(Font)              scaled to size 7.37677pt on input line 58.
 LaTeX Font Info:    Font shape `TU/NewCMMath-Book(3)/m/n' will be
-(Font)              scaled to size 5.26912pt on input line 71.
+(Font)              scaled to size 5.26912pt on input line 58.
 \l__list_leftmargin_ii_dim=\dimen499
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 84.
-
-[1
+ [1
 
 ]
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 86.
-
-[2] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./work.aux)
  ***********
@@ -2047,24 +2037,18 @@ L3 programming layer <2022/08/05>
  ***********
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package rerunfilecheck Info: File `work.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package lastpage Warning: Rerun to get the references right on input line 86.
-
  ) 
 Here is how much of TeX's memory you used:
- 48524 strings out of 474773
- 1131338 string characters out of 5761289
- 1965842 words of memory out of 5000000
- 69947 multiletter control sequences out of 15000+600000
- 564033 words of font info for 106 fonts, out of 8000000 for 9000
+ 48514 strings out of 474773
+ 1130966 string characters out of 5761289
+ 1962842 words of memory out of 5000000
+ 69941 multiletter control sequences out of 15000+600000
+ 563773 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  140i,11n,135p,1202b,2776s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on work.pdf (2 pages).
+Output written on work.pdf (1 page).
